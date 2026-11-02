@@ -35,7 +35,7 @@
   },
   "footer": {
     "account": "Account",
-    "credits": "Portfolio project, Syabe Technologies, 2026",
+    "credits": "Portfolio project, 2026",
     "disclaimer": "No real sales · Product data: DummyJSON",
     "shop": "Shop",
     "demo": "Demo",
@@ -928,7 +928,7 @@
       "sections": {
         "publisher": {
           "title": "Publisher",
-          "text": "Project made by Syabe Technologies in 2026 as part of a portfolio. No commercial activity takes place on this site."
+          "text": "Project made in 2026 as part of a portfolio. No commercial activity takes place on this site."
         },
         "hosting": {
           "title": "Hosting",

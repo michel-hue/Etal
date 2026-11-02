@@ -2,7 +2,7 @@
 
 > **Projet** : refonte complète de l'application e-commerce « Ma Boutique » (projet *Certification*)
 > **Nature** : application vitrine / portfolio — **non commercialisée**, aucun paiement réel
-> **Auteur** : Archange — Syabe Technologies
+> **Auteur** : Archange
 > **Version** : 1.0 — 16 octobre 2026
 > **Nom de l'application** : *à définir* (voir le cahier des charges graphique)
 

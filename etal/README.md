@@ -3,7 +3,7 @@
 > **Le choix, exposé avec soin.** Une boutique en ligne éditoriale — beauté, mode, maison — présentée comme un magazine.
 > Projet portfolio : refonte complète d'une application e-commerce, **aucune vente réelle**.
 
-[![CI](https://github.com/michel-hue/Certification/actions/workflows/ci.yml/badge.svg)](https://github.com/michel-hue/Certification/actions/workflows/ci.yml)
+[![CI](https://github.com/michel-hue/Etal/actions/workflows/ci.yml/badge.svg)](https://github.com/michel-hue/Certification/actions/workflows/ci.yml)
 ![Nuxt 4](https://img.shields.io/badge/Nuxt-4-00DC82?logo=nuxt.js&logoColor=white)
 ![TypeScript strict](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)
 ![Couverture 89 %](https://img.shields.io/badge/couverture-89%25-brightgreen)
@@ -196,4 +196,4 @@ Les commits suivent [Conventional Commits](https://www.conventionalcommits.org),
 ## Crédits
 
 Données produits, utilisateurs et paniers : [DummyJSON](https://dummyjson.com). Polices : Fraunces et Inter. Icônes : Lucide.
-Projet portfolio réalisé par Syabe Technologies, 2026.
+Projet portfolio, 2026.

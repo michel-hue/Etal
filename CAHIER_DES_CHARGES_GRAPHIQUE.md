@@ -2,7 +2,7 @@
 
 > **Destinataire** : Claude Design
 > **Projet** : refonte de l'application e-commerce portfolio (Nuxt 4 + Tailwind CSS v4 + API DummyJSON)
-> **Auteur** : Archange — Syabe Technologies
+> **Auteur** : Archange
 > **Version** : 1.0 — 16 octobre 2026
 > **Document de référence fonctionnel** : `CAHIER_DES_CHARGES.md` (écrans, routes, parcours)
 
